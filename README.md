@@ -1,4 +1,4 @@
-# terraform-samples
+# terraform-simple-ec2-vpc
 
 My very own terraform deployment configs for anyone to make use of.
 
